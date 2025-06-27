@@ -12,5 +12,5 @@ __pycache__
 # Violet Replays
 *.parquet
 
-temp/
-simulation_results/
+temp*/
+simulation_results*/

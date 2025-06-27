@@ -38,7 +38,7 @@ class CockroachConfig(Config):
     d_check_frequency: int = 30
 
     # Movement speed for agents when not in the Still state
-    movement_speed: float = 50.0
+    movement_speed: float = 5.0
 
     # Perception radius for agents to detect neighbors and sites
     radius: int = 70
